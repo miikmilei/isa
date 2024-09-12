@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 
-//limaste todas mis tristezas al volver
+//limaste todas mis tristezas al volver <3
 
 //? Fuentes Roboto
 import '@fontsource/roboto/300.css';
